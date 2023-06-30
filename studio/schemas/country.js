@@ -8,6 +8,7 @@ export default {
   title: 'Country',
   description: '',
   type: 'document',
+  
   icon: MdFlag,
   fields: [
     {
